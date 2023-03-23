@@ -1,3 +1,6 @@
 [submodule "DetectGPT"]
 	path = DetectGPT
 	url = https://github.com/BurhanUlTayyab/DetectGPT.git
+[submodule "GPTZero"]
+	path = GPTZero
+	url = https://github.com/BurhanUlTayyab/GPTZero.git
