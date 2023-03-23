@@ -1,0 +1,3 @@
+[submodule "DetectGPT"]
+	path = DetectGPT
+	url = https://github.com/BurhanUlTayyab/DetectGPT.git
